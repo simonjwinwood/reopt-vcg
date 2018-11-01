@@ -5,3 +5,4 @@ lean_version = "3.4.1"
 path = "src"
 
 [dependencies]
+decodex86 = {path = "../decodex86"}

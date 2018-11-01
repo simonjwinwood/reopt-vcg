@@ -6,7 +6,7 @@
 #include <iostream>
 
 // #include "X86RegisterInfo.h"
-#include "MCTargetDesc/X86MCTargetDesc.h"
+#include "X86MCTargetDesc.h"
 #include "llvm/MC/MCRegisterInfo.h"
 
 namespace vadd {

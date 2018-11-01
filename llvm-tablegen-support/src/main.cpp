@@ -4,8 +4,8 @@
 #include <string> // std::strtoul 
 #include <iostream>
 
-#include "Disassembler/X86DisassemblerDecoder.h"
-#include "MCTargetDesc/X86MCTargetDesc.h"
+#include "X86DisassemblerDecoder.h"
+#include "X86MCTargetDesc.h"
 
 #include "llvm-c/Target.h"
 

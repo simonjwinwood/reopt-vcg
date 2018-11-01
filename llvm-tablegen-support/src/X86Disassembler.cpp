@@ -82,8 +82,8 @@
 //
 //===----------------------------------------------------------------------===//
 
-#include "MCTargetDesc/X86BaseInfo.h"
-#include "Disassembler/X86DisassemblerDecoder.h"
+#include "X86BaseInfo.h"
+#include "X86DisassemblerDecoder.h"
 #include "llvm/Support/TargetRegistry.h"
 #include "llvm/Support/raw_ostream.h"
 
